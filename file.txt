@@ -1,1 +1,3 @@
 Some file with text here
+
+New line here
